@@ -19,7 +19,7 @@ end
 
 def decode_word(word)
   word_array = []
-  word = word.split(' ')
+  word = word.split('')
   word.each do |char|
     ch = decode_char(char)
     word_array.push(ch)
