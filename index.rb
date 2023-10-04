@@ -24,7 +24,7 @@ def decode_word(word)
     ch = decode_char(char)
     word_array.push(ch)
   end
-  word_array.join('')
+  word_array.join
 end
 
 def decode_message(str)
@@ -34,7 +34,7 @@ def decode_message(str)
     decoded_word = decode_word(word)
     str_array.push(decoded_word)
   end
-  str_array.join(' ')
+  str_array.join
 end
 
 puts decode_char('.-')
