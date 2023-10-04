@@ -72,7 +72,7 @@ git clone https://github.com/faisalakb/Ruby_Morse_Code.git
 Install this project with:
 
 ```
-cd cd Create-your-own-Enumerable
+cd Ruby_Morse_Code
 gem install
 ```
 
