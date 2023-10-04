@@ -124,6 +124,6 @@ If you like this project, please consider giving it a star.
 ## 📝 License <a name="license"></a>
 
 
-This project is [MIT](https://github.com/faisalakb/Ruby_Morse_Code.git/blob/Dev/LICENSE) licensed.
+This project is [MIT](https://github.com/faisalakb/Ruby_Morse_Code.git/blob/dev/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
