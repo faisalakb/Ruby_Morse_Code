@@ -1,3 +1,6 @@
+
+# Ruby_Morse_Code
+In this project building a simple program for encription using Ruby
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -120,6 +123,7 @@ If you like this project, please consider giving it a star.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/faisalakb/Ruby_Morse_Code/blob/dev/LICENSE) licensed.
+
+This project is [MIT](https://github.com/faisalakb/Ruby_Morse_Code.git/blob/dev/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
