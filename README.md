@@ -1,3 +1,4 @@
+
 # Ruby_Morse_Code
 In this project building a simple program for encription using Ruby
 # 📗 Table of Contents
@@ -71,7 +72,7 @@ git clone https://github.com/faisalakb/Ruby_Morse_Code.git
 Install this project with:
 
 ```
-cd cd Create-your-own-Enumerable
+cd Ruby_Morse_Code
 gem install
 ```
 
@@ -104,7 +105,7 @@ gem install
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/faisalakb/Ruby_Morse_Code.git/issues).
+Feel free to check the [issues page](https://github.com/faisalakb/Ruby_Morse_Code/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -122,6 +123,7 @@ If you like this project, please consider giving it a star.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/faisalakb/Ruby_Morse_Code.git/blob/dev/LICENSE) licensed.
+
+This project is [MIT](https://github.com/faisalakb/Ruby_Morse_Code/blob/dev/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
