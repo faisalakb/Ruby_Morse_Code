@@ -105,7 +105,7 @@ gem install
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/faisalakb/Ruby_Morse_Code.git/issues).
+Feel free to check the [issues page](https://github.com/faisalakb/Ruby_Morse_Code/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
